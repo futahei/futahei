@@ -8,6 +8,10 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/twitter.svg" width="28px"/>
   </a>
   &emsp;
+  <a href= "https://keybase.io/futahei">
+    <img src="https://img.icons8.com/ios-filled/50/000000/keybase2.svg" width="28px"/>
+  </a>
+  &emsp;
   <a href="mailto:futahei1108@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="28px"/>
   </a>
