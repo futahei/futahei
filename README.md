@@ -4,7 +4,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube.svg" width="28px"/>
   </a>
   &emsp;
-  <a href= "https://twitter.com/futahei">
+  <a href= "https://twitter.com/kohei_fttk">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitter.svg" width="28px"/>
   </a>
   &emsp;
@@ -12,7 +12,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/keybase2.svg" width="28px"/>
   </a>
   &emsp;
-  <a href="mailto:futahei1108@gmail.com">
+  <a href="mailto:kohei_f@cynack.com">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="28px"/>
   </a>
   <br><br>
