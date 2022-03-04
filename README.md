@@ -16,5 +16,6 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="28px"/>
   </a>
   <br><br>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=futahei&theme=onedark&row=1&column=6" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=futahei&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" height="130px" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futahei&hide_title=false&layout=compact&theme=tokyonight" height="130px" />
 </p>
