@@ -1,4 +1,6 @@
 <h1 align="center">futahei's profile</h1>
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 <p align="center">
   <a href= "https://www.youtube.com/channel/UC6cSz5FoLd8ib7Qnncyj-eg">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube.svg" width="28px"/>
