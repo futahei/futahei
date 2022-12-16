@@ -30,13 +30,4 @@ Last Updated on 12/16/2022, 1:07:28 AM UTC
 <h3>Development Metrics</h3>
 
 <!--START_SECTION:waka-->
-
-```text
-Vue.js       15 hrs 50 mins  ███████████████▓░░░░░░░░░   62.34 %
-TypeScript   9 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.65 %
-JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
 <!--END_SECTION:waka-->
