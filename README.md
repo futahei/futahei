@@ -30,7 +30,7 @@ Last Updated on 12/17/2022, 12:12:32 AM UTC
 <h3>Development Metrics</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C004%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C010%20hrs%2028%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,5 +56,5 @@ JSON                     4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/12/2022 18:36:58 UTC
+ Last Updated on 17/12/2022 18:36:23 UTC
 <!--END_SECTION:waka-->
