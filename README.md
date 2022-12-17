@@ -1,7 +1,7 @@
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" width="30"/> futahei's profile</h1>
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/M9NU3UQ" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.42&b=2.85&i=3.15&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="400" ></a>  
-Last Updated on 12/16/2022, 1:07:28 AM UTC
+<a href="https://lapras.com/public/M9NU3UQ" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.42&b=3.57&i=3.17&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="400" ></a>  
+Last Updated on 12/17/2022, 12:12:32 AM UTC
 <!--END_SECTION:lapras-card-->
 
 <h3>Social Links</h3>
