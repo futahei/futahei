@@ -32,8 +32,7 @@ Last Updated on 5/1/2023, 12:14:06 AM
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   46 mins         ████████████████████░░░░░   80.03 %
-Other        11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.97 %
+Other        11 mins         ████████████████████▓░░░░   82.84 %
 ```
 
 <!--END_SECTION:waka-->
