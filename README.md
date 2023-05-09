@@ -32,9 +32,8 @@ Last Updated on 5/9/2023, 12:12:57 AM
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 19 mins   ██████████████████████▒░░   89.18 %
-TypeScript   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JavaScript   2 hrs 46 mins   ███████████████████████░░   92.32 %
+TypeScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 ```
 
 <!--END_SECTION:waka-->
