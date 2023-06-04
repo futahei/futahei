@@ -32,11 +32,7 @@ Last Updated on 6/4/2023, 12:15:50 AM
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 53 mins   ███████████████████████▓░   94.70 %
-TypeScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   3 hrs 53 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
