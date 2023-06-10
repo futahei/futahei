@@ -32,8 +32,11 @@ Last Updated on 6/10/2023, 12:13:03 AM
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 hrs 45 mins  █████████████████████████   99.99 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   9 hrs 55 mins   █████████████████████▒░░░   85.93 %
+TypeScript   56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Other        28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Git          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
