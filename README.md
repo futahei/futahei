@@ -33,6 +33,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nuxt + i18nで国際化&lpar;yamlを使うよ！&rpar;](https://zenn.dev/futahei/articles/b38c1df1b0edd9)
+- [GAS + TypeScript + devcontainer&lpar;VSCode&rpar;で開発してみる](https://zenn.dev/futahei/articles/a6fe22c0efbb5e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Development Metrics</h3>
