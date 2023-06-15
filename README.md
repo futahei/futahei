@@ -12,7 +12,7 @@
 
 - ⚡ My favorite project is [Figni](https://figni.io/)
 
-- 📝 I regularly write articles on [https://zenn.dev/futahei](https://zenn.dev/futahei)
+- 📝 I regularly write articles on [Zenn](https://zenn.dev/futahei), [Qiita](https://qiita.com/Futahei) or [teratail](https://teratail.com/users/Futahei)
 
 - 💬 Ask me about **TypeScript/JavaScript, Node.js, Nuxt...**
 
