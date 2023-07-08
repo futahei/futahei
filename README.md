@@ -33,6 +33,7 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [glTF・glb形式の3Dモデルのサイズを小さくしよう！](https://zenn.dev/futahei/articles/85390c8f603e1f)
 - [Nuxt + i18nで国際化&lpar;yamlを使うよ！&rpar;](https://zenn.dev/futahei/articles/b38c1df1b0edd9)
 - [GAS + TypeScript + devcontainer&lpar;VSCode&rpar;で開発してみる](https://zenn.dev/futahei/articles/a6fe22c0efbb5e)
 <!-- BLOG-POST-LIST:END -->
