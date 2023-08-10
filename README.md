@@ -3,7 +3,7 @@
 <h3 align="center">A frontend & backend developer in Japan</h3>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/M9NU3UQ" target="_blank" rel="noopener noreferrer"><img alt="M9NU3UQ's scores on LAPRAS are as follows: Engineering: 3.46 out of 5.0, Business: 3.57 out of 5.0, Influence: 3.19 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=3.57&i=3.19&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/M9NU3UQ" target="_blank" rel="noopener noreferrer"><img alt="M9NU3UQ's scores on LAPRAS are as follows: Engineering: 3.48 out of 5.0, Business: 3.57 out of 5.0, Influence: 3.19 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.48&b=3.57&i=3.19&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 - 🔭 I work on [AsiaQuest](https://www.asia-quest.jp/)
