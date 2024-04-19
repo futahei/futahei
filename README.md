@@ -8,9 +8,7 @@
 
 - 🔭 I work on [AsiaQuest](https://www.asia-quest.jp/)
 
-- 🌱 I’m currently learning **NestJS, React, Three.js**
-
-- ⚡ My favorite project is [Figni](https://figni.io/)
+- 🌱 I’m currently learning **React, Three.js, Azure**
 
 - 📝 I regularly write articles on [Zenn](https://zenn.dev/futahei), [Qiita](https://qiita.com/Futahei) or [teratail](https://teratail.com/users/Futahei)
 
