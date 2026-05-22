@@ -146,10 +146,10 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [#FF0000 と #00FF00 はグレースケールで同じ見た目になるのか](https://zenn.dev/futahei/articles/c312bd47045ad4)
 - [GLSL×VSCode快適拡張のススメ](https://zenn.dev/futahei/articles/63e3d563db28eb)
 - [【Unity2022】AR FoundationのImage Trackingでマーカー画像ごとに別のARオブジェクトを表示する方法](https://zenn.dev/futahei/articles/07b048a5ba6cf7)
 - [glTF・glb形式の3Dモデルのサイズを小さくしよう！](https://zenn.dev/futahei/articles/85390c8f603e1f)
-- [Nuxt + i18nで国際化&lpar;yamlを使うよ！&rpar;](https://zenn.dev/futahei/articles/b38c1df1b0edd9)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Development Metrics:</h3>
