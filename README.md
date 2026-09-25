@@ -157,11 +157,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 34 mins         █████████████▒░░░░░░░░░░░   53.72 %
-Other        52 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-JavaScript   36 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Text         30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-PowerShell   13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
